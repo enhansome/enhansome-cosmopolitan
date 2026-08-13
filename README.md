@@ -26,14 +26,14 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 >
 > ![image operating systems](images/operatingsystems.png "operating systems")
 
-* [Cosmopolitan](https://github.com/jart/cosmopolitan) ⭐ 21,227 | 🐛 219 | 🌐 C | 📅 2026-07-20 - Build-once-run-anywhere for C
+* [Cosmopolitan](https://github.com/jart/cosmopolitan) ⭐ 21,230 | 🐛 219 | 🌐 C | 📅 2026-07-20 - Build-once-run-anywhere for C
 * [API Docs](https://justine.lol/cosmopolitan/documentation.html) - Thorough documentation for Cosmopolitan Libc
 * [HN discussions](https://hn.algolia.com/?query=cosmoplitan+libc) - Algolia list of Cosmopolitan submissions
 
 ### Programs
 
-* [actually portable awk](https://justine.lol/awk/) - The One True \[Portable] [Awk](https://github.com/onetrueawk/awk) ⭐ 2,216 | 🐛 13 | 🌐 C | 📅 2026-04-26
-* [bob](https://github.com/dinosaure/bob) ⭐ 145 | 🐛 19 | 🌐 OCaml | 📅 2025-05-12 - A peer-to-peer file-transfer tool in OCaml with Cosmopolitan
+* [actually portable awk](https://justine.lol/awk/) - The One True \[Portable] [Awk](https://github.com/onetrueawk/awk) ⭐ 2,217 | 🐛 13 | 🌐 C | 📅 2026-04-26
+* [bob](https://github.com/dinosaure/bob) ⭐ 143 | 🐛 19 | 🌐 OCaml | 📅 2025-05-12 - A peer-to-peer file-transfer tool in OCaml with Cosmopolitan
 * [ffl](https://github.com/nuwainfo/ffl) ⭐ 101 | 🐛 4 | 🌐 Python | 📅 2026-08-10 - Turns any file or folder into a secure HTTPS link, allowing two computers to simply and securely transfer files using real peer-to-peer (WebRTC) connections
 * [apelife.com](https://justine.lol/apelife/index.html) - tui for conway's game of life with xterm mouse integration
 * [blinkenlights](https://justine.lol/blinkenlights/) - Command line debugger that focuses on visualizing how software changes memory
@@ -45,7 +45,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 
 ### Projects
 
-* [microwindows](https://github.com/ghaerr/microwindows) ⭐ 852 | 🐛 25 | 🌐 C | 📅 2026-07-29 - The Nano-X Window System ([demo](https://github.com/jart/cosmopolitan/issues/35#issuecomment-1098659862) ⭐ 21,227 | 🐛 219 | 🌐 C | 📅 2026-07-20)
+* [microwindows](https://github.com/ghaerr/microwindows) ⭐ 852 | 🐛 25 | 🌐 C | 📅 2026-07-29 - The Nano-X Window System ([demo](https://github.com/jart/cosmopolitan/issues/35#issuecomment-1098659862) ⭐ 21,230 | 🐛 219 | 🌐 C | 📅 2026-07-20)
 * [cosmofy](https://github.com/metaist/cosmofy) ⭐ 107 | 🐛 3 | 🌐 Python | 📅 2026-01-13 - Bundle Python projects into a single-file Cosmopolitan Python executable
 * [cosmo-include](https://github.com/fabriziobertocci/cosmo-include) ⭐ 35 | 🐛 0 | 🌐 C | 📅 2023-03-24 - Set of very empty header files that can be used when building apps with Cosmopolitan
 * [cosmosocks](https://github.com/bannsec/cosmosocks) ⭐ 23 | 🐛 15 | 🌐 C | 📅 2022-09-09 - Socks server written in Cosmopolitan libc
@@ -58,10 +58,10 @@ Here are our most ambitious community projects, which would require perishing th
 
 ### Ports
 
-Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan) ⭐ 21,227 | 🐛 219 | 🌐 C | 📅 2026-07-20. Ports are often a stepping stone for what we put in the monorepo.
+Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan) ⭐ 21,230 | 🐛 219 | 🌐 C | 📅 2026-07-20. Ports are often a stepping stone for what we put in the monorepo.
 
 * [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) ⭐ 7,972 | 🐛 64 | 🌐 C | 📅 2026-08-12 - APE of wasm3
-* [mruby](https://github.com/mruby/mruby) ⭐ 5,601 | 🐛 2 | 🌐 C | 📅 2026-08-13 - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) ⭐ 5,601 | 🐛 2 | 🌐 C | 📅 2026-08-13 as a build target
+* [mruby](https://github.com/mruby/mruby) ⭐ 5,600 | 🐛 3 | 🌐 C | 📅 2026-08-13 - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) ⭐ 5,600 | 🐛 3 | 🌐 C | 📅 2026-08-13 as a build target
 * [rust ape example](https://github.com/ahgamut/rust-ape-example) ⭐ 215 | 🐛 3 | 🌐 Rust | 📅 2026-05-07 - Rust APE Example
 * [esperanto](https://github.com/dinosaure/esperanto) ⭐ 143 | 🐛 2 | 🌐 C | 📅 2026-02-17 - build-once run-anywhere OCaml programs
 * [nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) ⭐ 71 | 🐛 0 | 🌐 Nim | 📅 2023-05-05 - Turns Nim into a build once run anywhere language
