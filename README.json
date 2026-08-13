@@ -1,0 +1,504 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "actually portable awk",
+          "description": "The One True [Portable] Awk",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-26T20:03:28Z",
+            "owner": "onetrueawk",
+            "repo": "awk",
+            "stars": 2216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bob",
+          "description": "A peer-to-peer file-transfer tool in OCaml with Cosmopolitan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2025-05-12T08:41:39Z",
+            "owner": "dinosaure",
+            "repo": "bob",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ffl",
+          "description": "Turns any file or folder into a secure HTTPS link, allowing two computers to simply and securely transfer files using real peer-to-peer (WebRTC) connections",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:10:02Z",
+            "owner": "nuwainfo",
+            "repo": "ffl",
+            "stars": 101
+          }
+        }
+      ],
+      "title": "Programs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "microwindows",
+          "description": "The Nano-X Window System (demo)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-29T22:57:28Z",
+            "owner": "ghaerr",
+            "repo": "microwindows",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmofy",
+          "description": "Bundle Python projects into a single-file Cosmopolitan Python executable",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-13T23:40:18Z",
+            "owner": "metaist",
+            "repo": "cosmofy",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmo-include",
+          "description": "Set of very empty header files that can be used when building apps with Cosmopolitan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-03-24T19:10:27Z",
+            "owner": "fabriziobertocci",
+            "repo": "cosmo-include",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmosocks",
+          "description": "Socks server written in Cosmopolitan libc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-09-09T03:32:40Z",
+            "owner": "bannsec",
+            "repo": "cosmosocks",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "Note: Some ports are experimental. The most battle-tested code is in the Cosmopolitan repo. Ports are often a stepping stone for what we put in the monorepo.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wasm3",
+          "description": "APE of wasm3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T11:56:58Z",
+            "owner": "wasm3",
+            "repo": "wasm3",
+            "stars": 7972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mruby",
+          "description": "mruby supports cosmo as a build target",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:46:52Z",
+            "owner": "mruby",
+            "repo": "mruby",
+            "stars": 5601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust ape example",
+          "description": "Rust APE Example",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-07T11:40:42Z",
+            "owner": "ahgamut",
+            "repo": "rust-ape-example",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esperanto",
+          "description": "build-once run-anywhere OCaml programs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-17T19:29:03Z",
+            "owner": "dinosaure",
+            "repo": "esperanto",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nim",
+          "description": "Turns Nim into a build once run anywhere language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2023-05-05T21:27:41Z",
+            "owner": "gnu-enjoyer",
+            "repo": "ActuallyPortableNim",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpython311",
+          "description": "Port of python 3.11 (see also 3.9, 3.6, and 2.7)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-29T18:59:44Z",
+            "owner": "ahgamut",
+            "repo": "cpython",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ripgrep",
+          "description": "Port of ripgrep",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-10-10T14:11:09Z",
+            "owner": "ahgamut",
+            "repo": "ripgrep",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scalajs ape example",
+          "description": "Scala.js APE Example",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2022-08-21T15:42:49Z",
+            "owner": "lolgab",
+            "repo": "cosmopolitan-scalajs-example",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luajit",
+          "description": "Port of Lua JIT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-09-24T11:58:37Z",
+            "owner": "ahgamut",
+            "repo": "LuaJIT-cosmo",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "make",
+          "description": "Port of GNU Make",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-08-06T07:23:35Z",
+            "owner": "ahgamut",
+            "repo": "gnu-make-cosmopolitan",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tcl",
+          "description": "Port of TCL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-14T03:02:27Z",
+            "owner": "ahgamut",
+            "repo": "tcl",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lua",
+          "description": "Port of Lua",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-09T06:04:34Z",
+            "owner": "ahgamut",
+            "repo": "lua",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "janet",
+          "description": "Port of Janet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-04-21T06:02:46Z",
+            "owner": "ahgamut",
+            "repo": "janet",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blis",
+          "description": "Port of BLIS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-07T07:11:30Z",
+            "owner": "ahgamut",
+            "repo": "blis",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "php73",
+          "description": "Port of PHP 7.3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-12-15T20:41:15Z",
+            "owner": "ahgamut",
+            "repo": "php-src",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "php81",
+          "description": "Port of PHP 8.1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-12-15T20:41:15Z",
+            "owner": "ahgamut",
+            "repo": "php-src",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlite",
+          "description": "Port of SQLite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-05-04T07:55:36Z",
+            "owner": "ahgamut",
+            "repo": "sqlite",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cosmonim",
+          "description": "Simple example to show how cosmopolitan libc can be used with Nim",
+          "children": []
+        }
+      ],
+      "title": "Ports"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "redbean-docker",
+          "description": "The smallest possible web server in Docker!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "just",
+            "last_commit": "2022-12-15T11:21:25Z",
+            "owner": "kissgyorgy",
+            "repo": "redbean-docker",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "turfwar",
+          "description": "IPv4 address turf war!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-06-14T05:18:52Z",
+            "owner": "shamblesides",
+            "repo": "turfwar",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiddly-bean",
+          "description": "Experiments with a redbean TiddlyWiki server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-01-28T16:58:24Z",
+            "owner": "amreus",
+            "repo": "tiddly-bean",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redbean-jwt",
+          "description": "JSON Web Token for redbean",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-07-03T15:24:55Z",
+            "owner": "w13b3",
+            "repo": "redbean-jwt",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "action-static-redbean",
+          "description": "GitHub action that creates a redbean",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-05T21:46:49Z",
+            "owner": "TimonLukas",
+            "repo": "action-static-redbean",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rig",
+          "description": "redbean interactive grapher",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-27T13:55:26Z",
+            "owner": "cdrubin",
+            "repo": "rig",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "soakbean",
+          "description": "write serverlogic using beautiful reactive (nodejs) express-like middleware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-21T14:50:16Z",
+            "owner": "coderofsalvation",
+            "repo": "soakbean",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redbean-calcpad",
+          "description": "Alternative take on a calculator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2022-08-18T05:17:25Z",
+            "owner": "shmup",
+            "repo": "redbean-calcpad",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redbean-cardgames",
+          "description": "Upcoming collection of cardgames playable in a browser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-29T04:11:03Z",
+            "owner": "shmup",
+            "repo": "redbean-cardgames",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:41.912Z",
+    "original_repository": "shmup/awesome-cosmopolitan",
+    "original_repository_sha": "aa61c6d49bcaa23bc082645fa808986e0ab762c3",
+    "enhanced_repository": "enhansome/enhansome-cosmopolitan",
+    "enhanced_repository_description": null,
+    "title": "Awesome Cosmopolitan with stars"
+  }
+}
