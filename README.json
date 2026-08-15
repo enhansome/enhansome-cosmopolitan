@@ -14,7 +14,7 @@
             "last_commit": "2026-04-26T20:03:28Z",
             "owner": "onetrueawk",
             "repo": "awk",
-            "stars": 2219
+            "stars": 2220
           }
         },
         {
@@ -135,7 +135,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T12:58:47Z",
+            "last_commit": "2026-08-15T13:00:59Z",
             "owner": "mruby",
             "repo": "mruby",
             "stars": 5600
@@ -166,7 +166,7 @@
             "last_commit": "2026-02-17T19:29:03Z",
             "owner": "dinosaure",
             "repo": "esperanto",
-            "stars": 143
+            "stars": 144
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:14:38.576Z",
+    "last_updated": "2026-08-15T13:26:42.472Z",
     "original_repository": "shmup/awesome-cosmopolitan",
     "original_repository_sha": "aa61c6d49bcaa23bc082645fa808986e0ab762c3",
     "enhanced_repository": "enhansome/enhansome-cosmopolitan",
