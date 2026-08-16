@@ -121,7 +121,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T11:56:58Z",
+            "last_commit": "2026-08-16T10:32:40Z",
             "owner": "wasm3",
             "repo": "wasm3",
             "stars": 7972
@@ -135,7 +135,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T13:00:59Z",
+            "last_commit": "2026-08-15T21:53:48Z",
             "owner": "mruby",
             "repo": "mruby",
             "stars": 5600
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:26:42.472Z",
+    "last_updated": "2026-08-16T13:27:35.037Z",
     "original_repository": "shmup/awesome-cosmopolitan",
     "original_repository_sha": "aa61c6d49bcaa23bc082645fa808986e0ab762c3",
     "enhanced_repository": "enhansome/enhansome-cosmopolitan",
