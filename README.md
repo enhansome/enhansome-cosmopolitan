@@ -45,7 +45,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 
 ### Projects
 
-* [microwindows](https://github.com/ghaerr/microwindows) ⭐ 852 | 🐛 25 | 🌐 C | 📅 2026-07-29 - The Nano-X Window System ([demo](https://github.com/jart/cosmopolitan/issues/35#issuecomment-1098659862) ⭐ 21,238 | 🐛 219 | 🌐 C | 📅 2026-07-20)
+* [microwindows](https://github.com/ghaerr/microwindows) ⭐ 853 | 🐛 25 | 🌐 C | 📅 2026-07-29 - The Nano-X Window System ([demo](https://github.com/jart/cosmopolitan/issues/35#issuecomment-1098659862) ⭐ 21,238 | 🐛 219 | 🌐 C | 📅 2026-07-20)
 * [cosmofy](https://github.com/metaist/cosmofy) ⭐ 107 | 🐛 3 | 🌐 Python | 📅 2026-01-13 - Bundle Python projects into a single-file Cosmopolitan Python executable
 * [cosmo-include](https://github.com/fabriziobertocci/cosmo-include) ⭐ 35 | 🐛 0 | 🌐 C | 📅 2023-03-24 - Set of very empty header files that can be used when building apps with Cosmopolitan
 * [cosmosocks](https://github.com/bannsec/cosmosocks) ⭐ 23 | 🐛 16 | 🌐 C | 📅 2022-09-09 - Socks server written in Cosmopolitan libc
@@ -60,8 +60,8 @@ Here are our most ambitious community projects, which would require perishing th
 
 Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan) ⭐ 21,238 | 🐛 219 | 🌐 C | 📅 2026-07-20. Ports are often a stepping stone for what we put in the monorepo.
 
-* [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) ⭐ 7,972 | 🐛 66 | 🌐 C | 📅 2026-08-16 - APE of wasm3
-* [mruby](https://github.com/mruby/mruby) ⭐ 5,600 | 🐛 3 | 🌐 C | 📅 2026-08-15 - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) ⭐ 5,600 | 🐛 3 | 🌐 C | 📅 2026-08-15 as a build target
+* [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) ⭐ 7,975 | 🐛 66 | 🌐 C | 📅 2026-08-16 - APE of wasm3
+* [mruby](https://github.com/mruby/mruby) ⭐ 5,600 | 🐛 2 | 🌐 C | 📅 2026-08-17 - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) ⭐ 5,600 | 🐛 2 | 🌐 C | 📅 2026-08-17 as a build target
 * [rust ape example](https://github.com/ahgamut/rust-ape-example) ⭐ 215 | 🐛 3 | 🌐 Rust | 📅 2026-05-07 - Rust APE Example
 * [esperanto](https://github.com/dinosaure/esperanto) ⭐ 144 | 🐛 2 | 🌐 C | 📅 2026-02-17 - build-once run-anywhere OCaml programs
 * [nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) ⭐ 71 | 🐛 0 | 🌐 Nim | 📅 2023-05-05 - Turns Nim into a build once run anywhere language
@@ -128,4 +128,4 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
