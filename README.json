@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T16:10:02Z",
+            "last_commit": "2026-08-18T00:03:37Z",
             "owner": "nuwainfo",
             "repo": "ffl",
             "stars": 101
@@ -62,7 +62,7 @@
             "last_commit": "2026-07-29T22:57:28Z",
             "owner": "ghaerr",
             "repo": "microwindows",
-            "stars": 853
+            "stars": 854
           }
         },
         {
@@ -121,10 +121,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T10:32:40Z",
+            "last_commit": "2026-08-18T12:41:28Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 7975
+            "stars": 7979
           }
         },
         {
@@ -135,10 +135,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-17T13:26:16Z",
+            "last_commit": "2026-08-18T12:57:10Z",
             "owner": "mruby",
             "repo": "mruby",
-            "stars": 5600
+            "stars": 5601
           }
         },
         {
@@ -494,7 +494,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:36:15.642Z",
+    "last_updated": "2026-08-18T13:38:40.556Z",
     "original_repository": "shmup/awesome-cosmopolitan",
     "original_repository_sha": "aa61c6d49bcaa23bc082645fa808986e0ab762c3",
     "enhanced_repository": "enhansome/enhansome-cosmopolitan",
