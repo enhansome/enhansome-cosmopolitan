@@ -148,7 +148,7 @@
                 "archived": false,
                 "id": 4073516,
                 "language": "C",
-                "last_commit": "2026-08-19T09:37:28Z",
+                "last_commit": "2026-08-19T12:50:32Z",
                 "owner": "mruby",
                 "repo": "mruby",
                 "stars": 5601
@@ -537,7 +537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:23:27.852Z",
+    "last_updated": "2026-08-19T13:40:31.209Z",
     "original_repository": "shmup/awesome-cosmopolitan",
     "original_repository_id": 526712148,
     "original_repository_sha": "aa61c6d49bcaa23bc082645fa808986e0ab762c3",
