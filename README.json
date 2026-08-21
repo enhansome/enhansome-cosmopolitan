@@ -99,7 +99,7 @@
                 "last_commit": "2023-03-24T19:10:27Z",
                 "owner": "fabriziobertocci",
                 "repo": "cosmo-include",
-                "stars": 35
+                "stars": 33
               }
             },
             {
@@ -133,10 +133,10 @@
                 "archived": false,
                 "id": 212152900,
                 "language": "C",
-                "last_commit": "2026-08-20T12:23:56Z",
+                "last_commit": "2026-08-21T11:50:29Z",
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 7988
+                "stars": 7991
               }
             },
             {
@@ -148,7 +148,7 @@
                 "archived": false,
                 "id": 4073516,
                 "language": "C",
-                "last_commit": "2026-08-20T08:26:12Z",
+                "last_commit": "2026-08-21T10:56:51Z",
                 "owner": "mruby",
                 "repo": "mruby",
                 "stars": 5601
@@ -479,7 +479,7 @@
                 "last_commit": "2021-05-27T13:55:26Z",
                 "owner": "cdrubin",
                 "repo": "rig",
-                "stars": 18
+                "stars": 17
               }
             },
             {
@@ -537,7 +537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:42:08.167Z",
+    "last_updated": "2026-08-21T13:41:39.899Z",
     "original_repository": "shmup/awesome-cosmopolitan",
     "original_repository_id": 526712148,
     "original_repository_sha": "aa61c6d49bcaa23bc082645fa808986e0ab762c3",

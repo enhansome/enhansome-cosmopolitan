@@ -26,7 +26,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 >
 > ![image operating systems](images/operatingsystems.png "operating systems")
 
-* [Cosmopolitan](https://github.com/jart/cosmopolitan) ⭐ 21,250 | 🐛 221 | 🌐 C | 📅 2026-07-20 - Build-once-run-anywhere for C
+* [Cosmopolitan](https://github.com/jart/cosmopolitan) ⭐ 21,254 | 🐛 221 | 🌐 C | 📅 2026-07-20 - Build-once-run-anywhere for C
 * [API Docs](https://justine.lol/cosmopolitan/documentation.html) - Thorough documentation for Cosmopolitan Libc
 * [HN discussions](https://hn.algolia.com/?query=cosmoplitan+libc) - Algolia list of Cosmopolitan submissions
 
@@ -45,9 +45,9 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 
 ### Projects
 
-* [microwindows](https://github.com/ghaerr/microwindows) ⭐ 854 | 🐛 24 | 🌐 C | 📅 2026-08-20 - The Nano-X Window System ([demo](https://github.com/jart/cosmopolitan/issues/35#issuecomment-1098659862) ⭐ 21,250 | 🐛 221 | 🌐 C | 📅 2026-07-20)
+* [microwindows](https://github.com/ghaerr/microwindows) ⭐ 854 | 🐛 24 | 🌐 C | 📅 2026-08-20 - The Nano-X Window System ([demo](https://github.com/jart/cosmopolitan/issues/35#issuecomment-1098659862) ⭐ 21,254 | 🐛 221 | 🌐 C | 📅 2026-07-20)
 * [cosmofy](https://github.com/metaist/cosmofy) ⭐ 107 | 🐛 3 | 🌐 Python | 📅 2026-01-13 - Bundle Python projects into a single-file Cosmopolitan Python executable
-* [cosmo-include](https://github.com/fabriziobertocci/cosmo-include) ⭐ 35 | 🐛 0 | 🌐 C | 📅 2023-03-24 - Set of very empty header files that can be used when building apps with Cosmopolitan
+* [cosmo-include](https://github.com/fabriziobertocci/cosmo-include) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2023-03-24 - Set of very empty header files that can be used when building apps with Cosmopolitan
 * [cosmosocks](https://github.com/bannsec/cosmosocks) ⭐ 23 | 🐛 16 | 🌐 C | 📅 2022-09-09 - Socks server written in Cosmopolitan libc
 
 ### Tilting at Windmills
@@ -58,10 +58,10 @@ Here are our most ambitious community projects, which would require perishing th
 
 ### Ports
 
-Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan) ⭐ 21,250 | 🐛 221 | 🌐 C | 📅 2026-07-20. Ports are often a stepping stone for what we put in the monorepo.
+Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan) ⭐ 21,254 | 🐛 221 | 🌐 C | 📅 2026-07-20. Ports are often a stepping stone for what we put in the monorepo.
 
-* [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) ⭐ 7,988 | 🐛 43 | 🌐 C | 📅 2026-08-20 - APE of wasm3
-* [mruby](https://github.com/mruby/mruby) ⭐ 5,601 | 🐛 2 | 🌐 C | 📅 2026-08-20 - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) ⭐ 5,601 | 🐛 2 | 🌐 C | 📅 2026-08-20 as a build target
+* [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) ⭐ 7,991 | 🐛 38 | 🌐 C | 📅 2026-08-21 - APE of wasm3
+* [mruby](https://github.com/mruby/mruby) ⭐ 5,601 | 🐛 4 | 🌐 C | 📅 2026-08-21 - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) ⭐ 5,601 | 🐛 4 | 🌐 C | 📅 2026-08-21 as a build target
 * [rust ape example](https://github.com/ahgamut/rust-ape-example) ⭐ 215 | 🐛 3 | 🌐 Rust | 📅 2026-05-07 - Rust APE Example
 * [esperanto](https://github.com/dinosaure/esperanto) ⭐ 144 | 🐛 2 | 🌐 C | 📅 2026-02-17 - build-once run-anywhere OCaml programs
 * [nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) ⭐ 71 | 🐛 0 | 🌐 Nim | 📅 2023-05-05 - Turns Nim into a build once run anywhere language
@@ -106,7 +106,7 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 * [tiddly-bean](https://github.com/amreus/tiddly-bean) ⭐ 32 | 🐛 0 | 🌐 Lua | 📅 2023-01-28 - Experiments with a redbean TiddlyWiki server
 * [redbean-jwt](https://github.com/w13b3/redbean-jwt) ⭐ 25 | 🐛 1 | 🌐 Lua | 📅 2024-07-03 - JSON Web Token for redbean
 * [action-static-redbean](https://github.com/TimonLukas/action-static-redbean) ⭐ 19 | 🐛 0 | 📅 2023-12-05 - GitHub action that creates a redbean
-* [rig](https://github.com/cdrubin/rig) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2021-05-27 - redbean interactive grapher
+* [rig](https://github.com/cdrubin/rig) ⭐ 17 | 🐛 2 | 🌐 JavaScript | 📅 2021-05-27 - redbean interactive grapher
 * [soakbean](https://github.com/coderofsalvation/soakbean) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2026-07-21 write serverlogic using beautiful reactive (nodejs) express-like middleware.
 * [redbean-calcpad](https://github.com/shmup/redbean-calcpad) ⭐ 15 | 🐛 0 | 🌐 Makefile | 📅 2022-08-18 - Alternative take on a calculator
 * [redbean-cardgames](https://github.com/shmup/redbean-cardgames) ⭐ 9 | 🐛 1 | 🌐 JavaScript | 📅 2022-08-29 - Upcoming collection of cardgames playable in a browser
@@ -128,4 +128,4 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
