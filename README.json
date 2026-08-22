@@ -133,10 +133,10 @@
                 "archived": false,
                 "id": 212152900,
                 "language": "C",
-                "last_commit": "2026-08-21T11:50:29Z",
+                "last_commit": "2026-08-22T09:33:28Z",
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 7991
+                "stars": 7992
               }
             },
             {
@@ -148,7 +148,7 @@
                 "archived": false,
                 "id": 4073516,
                 "language": "C",
-                "last_commit": "2026-08-21T10:56:51Z",
+                "last_commit": "2026-08-22T08:40:45Z",
                 "owner": "mruby",
                 "repo": "mruby",
                 "stars": 5601
@@ -166,7 +166,7 @@
                 "last_commit": "2026-05-07T11:40:42Z",
                 "owner": "ahgamut",
                 "repo": "rust-ape-example",
-                "stars": 215
+                "stars": 216
               }
             },
             {
@@ -537,7 +537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:41:39.899Z",
+    "last_updated": "2026-08-22T13:28:05.351Z",
     "original_repository": "shmup/awesome-cosmopolitan",
     "original_repository_id": 526712148,
     "original_repository_sha": "aa61c6d49bcaa23bc082645fa808986e0ab762c3",

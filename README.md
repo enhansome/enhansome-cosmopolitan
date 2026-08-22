@@ -26,7 +26,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 >
 > ![image operating systems](images/operatingsystems.png "operating systems")
 
-* [Cosmopolitan](https://github.com/jart/cosmopolitan) ⭐ 21,254 | 🐛 221 | 🌐 C | 📅 2026-07-20 - Build-once-run-anywhere for C
+* [Cosmopolitan](https://github.com/jart/cosmopolitan) ⭐ 21,255 | 🐛 221 | 🌐 C | 📅 2026-07-20 - Build-once-run-anywhere for C
 * [API Docs](https://justine.lol/cosmopolitan/documentation.html) - Thorough documentation for Cosmopolitan Libc
 * [HN discussions](https://hn.algolia.com/?query=cosmoplitan+libc) - Algolia list of Cosmopolitan submissions
 
@@ -45,7 +45,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 
 ### Projects
 
-* [microwindows](https://github.com/ghaerr/microwindows) ⭐ 854 | 🐛 24 | 🌐 C | 📅 2026-08-20 - The Nano-X Window System ([demo](https://github.com/jart/cosmopolitan/issues/35#issuecomment-1098659862) ⭐ 21,254 | 🐛 221 | 🌐 C | 📅 2026-07-20)
+* [microwindows](https://github.com/ghaerr/microwindows) ⭐ 854 | 🐛 25 | 🌐 C | 📅 2026-08-20 - The Nano-X Window System ([demo](https://github.com/jart/cosmopolitan/issues/35#issuecomment-1098659862) ⭐ 21,255 | 🐛 221 | 🌐 C | 📅 2026-07-20)
 * [cosmofy](https://github.com/metaist/cosmofy) ⭐ 107 | 🐛 3 | 🌐 Python | 📅 2026-01-13 - Bundle Python projects into a single-file Cosmopolitan Python executable
 * [cosmo-include](https://github.com/fabriziobertocci/cosmo-include) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2023-03-24 - Set of very empty header files that can be used when building apps with Cosmopolitan
 * [cosmosocks](https://github.com/bannsec/cosmosocks) ⭐ 23 | 🐛 16 | 🌐 C | 📅 2022-09-09 - Socks server written in Cosmopolitan libc
@@ -58,11 +58,11 @@ Here are our most ambitious community projects, which would require perishing th
 
 ### Ports
 
-Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan) ⭐ 21,254 | 🐛 221 | 🌐 C | 📅 2026-07-20. Ports are often a stepping stone for what we put in the monorepo.
+Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan) ⭐ 21,255 | 🐛 221 | 🌐 C | 📅 2026-07-20. Ports are often a stepping stone for what we put in the monorepo.
 
-* [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) ⭐ 7,991 | 🐛 38 | 🌐 C | 📅 2026-08-21 - APE of wasm3
-* [mruby](https://github.com/mruby/mruby) ⭐ 5,601 | 🐛 4 | 🌐 C | 📅 2026-08-21 - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) ⭐ 5,601 | 🐛 4 | 🌐 C | 📅 2026-08-21 as a build target
-* [rust ape example](https://github.com/ahgamut/rust-ape-example) ⭐ 215 | 🐛 3 | 🌐 Rust | 📅 2026-05-07 - Rust APE Example
+* [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) ⭐ 7,992 | 🐛 38 | 🌐 C | 📅 2026-08-22 - APE of wasm3
+* [mruby](https://github.com/mruby/mruby) ⭐ 5,601 | 🐛 1 | 🌐 C | 📅 2026-08-22 - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) ⭐ 5,601 | 🐛 1 | 🌐 C | 📅 2026-08-22 as a build target
+* [rust ape example](https://github.com/ahgamut/rust-ape-example) ⭐ 216 | 🐛 3 | 🌐 Rust | 📅 2026-05-07 - Rust APE Example
 * [esperanto](https://github.com/dinosaure/esperanto) ⭐ 144 | 🐛 2 | 🌐 C | 📅 2026-02-17 - build-once run-anywhere OCaml programs
 * [nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) ⭐ 71 | 🐛 0 | 🌐 Nim | 📅 2023-05-05 - Turns Nim into a build once run anywhere language
 * [cpython311](https://github.com/ahgamut/cpython/tree/cosmo_py311) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2025-11-29 - Port of python 3.11 (see also [3.9](https://github.com/ahgamut/cpython/tree/cosmo_py39) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2025-11-29, [3.6](https://github.com/ahgamut/cpython/tree/cosmo_py36) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2025-11-29, and [2.7](https://github.com/ahgamut/cpython/tree/cosmo_py27) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2025-11-29)
@@ -123,9 +123,9 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 
 > <img align="left" src="images/fullmoon.png"> *Fullmoon is a fast and minimalistic web framework based on Redbean -- a portable, single-file distributable web server.*
 
-* [Fullmoon](https://github.com/pkulchenko/fullmoon) ⭐ 756 | 🐛 8 | 🌐 Lua | 📅 2024-08-05 - Fast and minimalistic web framework
+* [Fullmoon](https://github.com/pkulchenko/fullmoon) ⭐ 755 | 🐛 8 | 🌐 Lua | 📅 2024-08-05 - Fast and minimalistic web framework
 * [HN discussions](https://hn.algolia.com/?query=fullmoon+framework) - Algolia list of Fullmoon submissions
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
