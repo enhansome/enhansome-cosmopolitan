@@ -4,6 +4,21 @@
       "description": "Cosmopolitan Libc makes C a build-once run-anywhere language, like Java, except it doesn't need an interpreter or virtual machine. Instead, it reconfigures stock GCC and Clang to output a POSIX-approved polyglot format that runs natively on Linux + Mac + Windows + FreeBSD + OpenBSD + NetBSD + BIOS with the best possible performance and the tiniest footprint imaginable.",
       "items": [
         {
+          "node_type": "item",
+          "title": "Cosmopolitan",
+          "description": "Build-once-run-anywhere for C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272457606,
+            "language": "C",
+            "last_commit": "2026-07-20T02:14:06Z",
+            "owner": "jart",
+            "repo": "cosmopolitan",
+            "stars": 21254
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -17,7 +32,7 @@
                 "last_commit": "2026-08-19T08:27:54Z",
                 "owner": "onetrueawk",
                 "repo": "awk",
-                "stars": 2221
+                "stars": 2222
               }
             },
             {
@@ -44,7 +59,7 @@
                 "archived": false,
                 "id": 1025647169,
                 "language": "Python",
-                "last_commit": "2026-08-18T00:03:37Z",
+                "last_commit": "2026-08-24T13:41:38Z",
                 "owner": "nuwainfo",
                 "repo": "ffl",
                 "stars": 101
@@ -126,6 +141,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "cosmogfx",
+              "description": "Build-once run-anywhere OpenGL application",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 421545940,
+                "language": "C",
+                "last_commit": "2022-09-25T12:23:43Z",
+                "owner": "jacereda",
+                "repo": "cosmogfx",
+                "stars": 97
+              }
+            }
+          ],
+          "description": "Here are our most ambitious community projects, which would require perishing the greatest demons, but if it could be done, would yield some great rewards.",
+          "node_type": "group",
+          "title": "Tilting at Windmills"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "wasm3",
               "description": "APE of wasm3",
               "children": [],
@@ -136,7 +173,7 @@
                 "last_commit": "2026-08-23T09:33:42Z",
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 7992
+                "stars": 7995
               }
             },
             {
@@ -148,7 +185,7 @@
                 "archived": false,
                 "id": 4073516,
                 "language": "C",
-                "last_commit": "2026-08-23T12:43:25Z",
+                "last_commit": "2026-08-24T13:01:42Z",
                 "owner": "mruby",
                 "repo": "mruby",
                 "stars": 5601
@@ -166,7 +203,7 @@
                 "last_commit": "2026-05-07T11:40:42Z",
                 "owner": "ahgamut",
                 "repo": "rust-ape-example",
-                "stars": 216
+                "stars": 217
               }
             },
             {
@@ -391,6 +428,21 @@
       "description": "redbean is an open source webserver in a zip executable that runs on six operating systems. The basic idea is if you want to build a web app that runs anywhere, then you download the redbean.com file, put your .html and .lua files inside it using the zip command, and then you've got a hermetic app you can deploy and share.",
       "items": [
         {
+          "node_type": "item",
+          "title": "redbean-template",
+          "description": "Starting template to create your own redbean project",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 521799111,
+            "language": "Shell",
+            "last_commit": "2026-06-24T05:03:47Z",
+            "owner": "ProducerMatt",
+            "repo": "redbean-template",
+            "stars": 39
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -491,7 +543,7 @@
                 "archived": false,
                 "id": 427642747,
                 "language": "Lua",
-                "last_commit": "2026-07-21T14:50:16Z",
+                "last_commit": "2026-08-24T10:26:15Z",
                 "owner": "coderofsalvation",
                 "repo": "soakbean",
                 "stars": 17
@@ -537,7 +589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:28:54.380Z",
+    "last_updated": "2026-08-24T13:47:41.964Z",
     "original_repository": "shmup/awesome-cosmopolitan",
     "original_repository_id": 526712148,
     "original_repository_sha": "aa61c6d49bcaa23bc082645fa808986e0ab762c3",
