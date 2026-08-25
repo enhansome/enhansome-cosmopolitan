@@ -15,7 +15,7 @@
             "last_commit": "2026-07-20T02:14:06Z",
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21254
+            "stars": 21256
           }
         },
         {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-19T08:27:54Z",
                 "owner": "onetrueawk",
                 "repo": "awk",
-                "stars": 2222
+                "stars": 2221
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 1025647169,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:41:38Z",
+                "last_commit": "2026-08-24T23:46:56Z",
                 "owner": "nuwainfo",
                 "repo": "ffl",
-                "stars": 101
+                "stars": 102
               }
             }
           ],
@@ -81,7 +81,7 @@
                 "archived": false,
                 "id": 34084316,
                 "language": "C",
-                "last_commit": "2026-08-22T19:32:30Z",
+                "last_commit": "2026-08-24T17:03:25Z",
                 "owner": "ghaerr",
                 "repo": "microwindows",
                 "stars": 854
@@ -170,10 +170,10 @@
                 "archived": false,
                 "id": 212152900,
                 "language": "C",
-                "last_commit": "2026-08-23T09:33:42Z",
+                "last_commit": "2026-08-24T17:20:33Z",
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 7995
+                "stars": 8000
               }
             },
             {
@@ -185,10 +185,10 @@
                 "archived": false,
                 "id": 4073516,
                 "language": "C",
-                "last_commit": "2026-08-24T13:01:42Z",
+                "last_commit": "2026-08-25T06:12:58Z",
                 "owner": "mruby",
                 "repo": "mruby",
-                "stars": 5601
+                "stars": 5600
               }
             },
             {
@@ -589,7 +589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:28:34.868Z",
+    "last_updated": "2026-08-25T06:21:19.314Z",
     "original_repository": "shmup/awesome-cosmopolitan",
     "original_repository_id": 526712148,
     "original_repository_sha": "aa61c6d49bcaa23bc082645fa808986e0ab762c3",
