@@ -15,7 +15,7 @@
             "last_commit": "2026-07-20T02:14:06Z",
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21260
+            "stars": 21262
           }
         },
         {
@@ -170,10 +170,10 @@
                 "archived": false,
                 "id": 212152900,
                 "language": "C",
-                "last_commit": "2026-08-27T10:38:26Z",
+                "last_commit": "2026-08-27T16:56:41Z",
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 8002
+                "stars": 8006
               }
             },
             {
@@ -185,7 +185,7 @@
                 "archived": false,
                 "id": 4073516,
                 "language": "C",
-                "last_commit": "2026-08-27T08:59:56Z",
+                "last_commit": "2026-08-27T14:41:03Z",
                 "owner": "mruby",
                 "repo": "mruby",
                 "stars": 5601
@@ -589,7 +589,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:25.046Z",
+    "last_updated": "2026-08-27T22:44:44.088Z",
     "original_repository_info": {
       "archived": false,
       "id": 526712148,
