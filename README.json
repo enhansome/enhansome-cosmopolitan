@@ -15,7 +15,7 @@
             "last_commit": "2026-07-20T02:14:06Z",
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21258
+            "stars": 21260
           }
         },
         {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-24T17:03:25Z",
                 "owner": "ghaerr",
                 "repo": "microwindows",
-                "stars": 854
+                "stars": 855
               }
             },
             {
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 212152900,
                 "language": "C",
-                "last_commit": "2026-08-26T12:57:41Z",
+                "last_commit": "2026-08-27T10:38:26Z",
                 "owner": "wasm3",
                 "repo": "wasm3",
                 "stars": 8002
@@ -185,10 +185,10 @@
                 "archived": false,
                 "id": 4073516,
                 "language": "C",
-                "last_commit": "2026-08-26T13:36:50Z",
+                "last_commit": "2026-08-27T08:59:56Z",
                 "owner": "mruby",
                 "repo": "mruby",
-                "stars": 5600
+                "stars": 5601
               }
             },
             {
@@ -589,9 +589,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:52:03.117Z",
-    "original_repository": "shmup/awesome-cosmopolitan",
-    "original_repository_id": 526712148,
+    "last_updated": "2026-08-27T11:33:25.046Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 526712148,
+      "language": null,
+      "last_commit": "2025-12-28T17:29:36Z",
+      "owner": "shmup",
+      "repo": "awesome-cosmopolitan",
+      "stars": 314
+    },
     "original_repository_sha": "aa61c6d49bcaa23bc082645fa808986e0ab762c3",
     "enhanced_repository": "enhansome/enhansome-cosmopolitan",
     "enhanced_repository_description": null,
