@@ -16,7 +16,8 @@
             "owner": "jart",
             "repo": "cosmopolitan",
             "stars": 21262
-          }
+          },
+          "first_seen": "2026-08-28T22:52:00.486Z"
         },
         {
           "children": [
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-19T08:27:54Z",
                 "owner": "onetrueawk",
                 "repo": "awk",
-                "stars": 2221
-              }
+                "stars": 2222
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "dinosaure",
                 "repo": "bob",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "nuwainfo",
                 "repo": "ffl",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             }
           ],
           "description": null,
@@ -84,8 +88,9 @@
                 "last_commit": "2026-08-24T17:03:25Z",
                 "owner": "ghaerr",
                 "repo": "microwindows",
-                "stars": 855
-              }
+                "stars": 856
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "metaist",
                 "repo": "cosmofy",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "fabriziobertocci",
                 "repo": "cosmo-include",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "bannsec",
                 "repo": "cosmosocks",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             }
           ],
           "description": null,
@@ -152,7 +160,8 @@
                 "owner": "jacereda",
                 "repo": "cosmogfx",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             }
           ],
           "description": "Here are our most ambitious community projects, which would require perishing the greatest demons, but if it could be done, would yield some great rewards.",
@@ -170,11 +179,12 @@
                 "archived": false,
                 "id": 212152900,
                 "language": "C",
-                "last_commit": "2026-08-27T16:56:41Z",
+                "last_commit": "2026-08-28T14:56:31Z",
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 8006
-              }
+                "stars": 8007
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -185,11 +195,12 @@
                 "archived": false,
                 "id": 4073516,
                 "language": "C",
-                "last_commit": "2026-08-27T14:41:03Z",
+                "last_commit": "2026-08-28T22:27:37Z",
                 "owner": "mruby",
                 "repo": "mruby",
                 "stars": 5601
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "ahgamut",
                 "repo": "rust-ape-example",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "dinosaure",
                 "repo": "esperanto",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "gnu-enjoyer",
                 "repo": "ActuallyPortableNim",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -249,7 +263,8 @@
                 "owner": "ahgamut",
                 "repo": "cpython",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -264,7 +279,8 @@
                 "owner": "ahgamut",
                 "repo": "ripgrep",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -279,7 +295,8 @@
                 "owner": "lolgab",
                 "repo": "cosmopolitan-scalajs-example",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "ahgamut",
                 "repo": "LuaJIT-cosmo",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -309,7 +327,8 @@
                 "owner": "ahgamut",
                 "repo": "gnu-make-cosmopolitan",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -324,7 +343,8 @@
                 "owner": "ahgamut",
                 "repo": "tcl",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -339,7 +359,8 @@
                 "owner": "ahgamut",
                 "repo": "lua",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -354,7 +375,8 @@
                 "owner": "ahgamut",
                 "repo": "janet",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -369,7 +391,8 @@
                 "owner": "ahgamut",
                 "repo": "blis",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -384,7 +407,8 @@
                 "owner": "ahgamut",
                 "repo": "php-src",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -399,7 +423,8 @@
                 "owner": "ahgamut",
                 "repo": "php-src",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -414,7 +439,8 @@
                 "owner": "ahgamut",
                 "repo": "sqlite",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             }
           ],
           "description": "Note: Some ports are experimental. The most battle-tested code is in the Cosmopolitan repo. Ports are often a stepping stone for what we put in the monorepo.",
@@ -440,7 +466,8 @@
             "owner": "ProducerMatt",
             "repo": "redbean-template",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T22:52:00.486Z"
         },
         {
           "children": [
@@ -457,7 +484,8 @@
                 "owner": "kissgyorgy",
                 "repo": "redbean-docker",
                 "stars": 352
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -472,7 +500,8 @@
                 "owner": "shamblesides",
                 "repo": "turfwar",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -487,7 +516,8 @@
                 "owner": "amreus",
                 "repo": "tiddly-bean",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -502,7 +532,8 @@
                 "owner": "w13b3",
                 "repo": "redbean-jwt",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -517,7 +548,8 @@
                 "owner": "TimonLukas",
                 "repo": "action-static-redbean",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -532,7 +564,8 @@
                 "owner": "cdrubin",
                 "repo": "rig",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -547,7 +580,8 @@
                 "owner": "coderofsalvation",
                 "repo": "soakbean",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -562,7 +596,8 @@
                 "owner": "shmup",
                 "repo": "redbean-calcpad",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             },
             {
               "node_type": "item",
@@ -577,7 +612,8 @@
                 "owner": "shmup",
                 "repo": "redbean-cardgames",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
             }
           ],
           "description": null,
@@ -589,7 +625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:44:44.088Z",
+    "last_updated": "2026-08-28T22:52:00.486Z",
     "original_repository_info": {
       "archived": false,
       "id": 526712148,
