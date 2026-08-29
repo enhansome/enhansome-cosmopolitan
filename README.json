@@ -284,7 +284,7 @@
                 "open_issues": 19,
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 8007,
+                "stars": 8008,
                 "topics": [
                   "containers",
                   "cosmopolitan",
@@ -315,11 +315,11 @@
                 "id": 4073516,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-29T02:05:23Z",
+                "last_commit": "2026-08-29T15:23:11Z",
                 "open_issues": 2,
                 "owner": "mruby",
                 "repo": "mruby",
-                "stars": 5601,
+                "stars": 5602,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:47:13.489Z",
+    "last_updated": "2026-08-29T16:57:13.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
