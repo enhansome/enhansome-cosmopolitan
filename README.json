@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "build-once run-anywhere c library",
+            "homepage": null,
             "id": 272457606,
             "language": "C",
+            "license": "ISC",
             "last_commit": "2026-07-20T02:14:06Z",
+            "open_issues": 225,
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21262
+            "stars": 21262,
+            "topics": [
+              "bios",
+              "containers",
+              "darwin",
+              "efi",
+              "freebsd",
+              "libc",
+              "linux",
+              "netbsd",
+              "openbsd",
+              "polyglot",
+              "windows",
+              "zip"
+            ]
           },
           "first_seen": "2026-08-28T22:52:00.486Z"
         },
@@ -28,12 +46,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One true awk",
+                "homepage": null,
                 "id": 7287136,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T08:27:54Z",
+                "open_issues": 15,
                 "owner": "onetrueawk",
                 "repo": "awk",
-                "stars": 2222
+                "stars": 2222,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -44,12 +67,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A peer-to-peer file-transfer tool in OCaml",
+                "homepage": "https://bob.osau.re/",
                 "id": 503925908,
                 "language": "OCaml",
+                "license": "MIT",
                 "last_commit": "2025-05-12T08:41:39Z",
+                "open_issues": 19,
                 "owner": "dinosaure",
                 "repo": "bob",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "file",
+                  "p2p",
+                  "security",
+                  "sharing",
+                  "unikernel"
+                ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -60,12 +94,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FastFileLink CLI - Turn any file or folder into a secure, sharable HTTPS link. 🔄 Direct transfer (P2P) .⚡ Absolute privacy (E2EE).🔒 Single File, Run Anywhere",
+                "homepage": "https://fastfilelink.com",
                 "id": 1025647169,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T23:46:56Z",
+                "open_issues": 4,
                 "owner": "nuwainfo",
                 "repo": "ffl",
-                "stars": 102
+                "stars": 102,
+                "topics": [
+                  "cosmopolitan-libc",
+                  "data-transfer",
+                  "end-to-end-encryption",
+                  "file-sharing",
+                  "folder-share",
+                  "networking",
+                  "peer-to-peer",
+                  "transfer",
+                  "tunnel",
+                  "webrtc"
+                ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             }
@@ -83,12 +133,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Nano-X Window System",
+                "homepage": null,
                 "id": 34084316,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T17:03:25Z",
+                "open_issues": 24,
                 "owner": "ghaerr",
                 "repo": "microwindows",
-                "stars": 856
+                "stars": 856,
+                "topics": [
+                  "android",
+                  "c",
+                  "emscripten",
+                  "fbff",
+                  "fbpdf",
+                  "fltk",
+                  "framebuffer",
+                  "graphical",
+                  "gui",
+                  "microui",
+                  "microwindows",
+                  "nano",
+                  "nano-x",
+                  "nuklear",
+                  "system",
+                  "window",
+                  "windowing",
+                  "x11"
+                ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -99,12 +173,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cosmopolitan Python Bundler",
+                "homepage": "https://docs.metaist.com/cosmofy",
                 "id": 855162003,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-13T23:40:18Z",
+                "open_issues": 3,
                 "owner": "metaist",
                 "repo": "cosmofy",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "cosmopolitan",
+                  "python",
+                  "uv"
+                ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -115,12 +198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of very empty header files that can be used when building apps with Cosmopolitan",
+                "homepage": null,
                 "id": 369622890,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-03-24T19:10:27Z",
+                "open_issues": 0,
                 "owner": "fabriziobertocci",
                 "repo": "cosmo-include",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -131,12 +219,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Socks server written in Cosmopolitan libc",
+                "homepage": null,
                 "id": 526035633,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2022-09-09T03:32:40Z",
+                "open_issues": 16,
                 "owner": "bannsec",
                 "repo": "cosmosocks",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             }
@@ -154,12 +247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build-once run-anywhere OpenGL application",
+                "homepage": null,
                 "id": 421545940,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2022-09-25T12:23:43Z",
+                "open_issues": 1,
                 "owner": "jacereda",
                 "repo": "cosmogfx",
-                "stars": 97
+                "stars": 97,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             }
@@ -177,12 +275,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 A fast WebAssembly interpreter and the most universal WASM runtime",
+                "homepage": "https://twitter.com/wasm3_engine",
                 "id": 212152900,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:56:31Z",
+                "open_issues": 19,
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 8007
+                "stars": 8007,
+                "topics": [
+                  "containers",
+                  "cosmopolitan",
+                  "devops",
+                  "edge-computing",
+                  "embedded",
+                  "iot",
+                  "sandbox",
+                  "scripting",
+                  "serverless",
+                  "smart-contracts",
+                  "virtual-machine",
+                  "wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -193,12 +310,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight Ruby",
+                "homepage": null,
                 "id": 4073516,
                 "language": "C",
-                "last_commit": "2026-08-28T22:27:37Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:05:23Z",
+                "open_issues": 2,
                 "owner": "mruby",
                 "repo": "mruby",
-                "stars": 5601
+                "stars": 5601,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -209,12 +331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple example with Rust and Cosmopolitan Libc",
+                "homepage": null,
                 "id": 505709901,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-05-07T11:40:42Z",
+                "open_issues": 3,
                 "owner": "ahgamut",
                 "repo": "rust-ape-example",
-                "stars": 217
+                "stars": 217,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -225,12 +352,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "build-once run-anywhere OCaml programs",
+                "homepage": null,
                 "id": 488670255,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-02-17T19:29:03Z",
+                "open_issues": 2,
                 "owner": "dinosaure",
                 "repo": "esperanto",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -241,12 +373,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Turns Nim into a build once run anywhere language",
+                "homepage": "https://mike.fo/blog/nim-is-actually-portable",
                 "id": 525793142,
                 "language": "Nim",
+                "license": null,
                 "last_commit": "2023-05-05T21:27:41Z",
+                "open_issues": 0,
                 "owner": "gnu-enjoyer",
                 "repo": "ActuallyPortableNim",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "cosmopolitan-libc",
+                  "nim"
+                ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -257,12 +397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Python programming language",
+                "homepage": "https://www.python.org/",
                 "id": 354013401,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-29T18:59:44Z",
+                "open_issues": 3,
                 "owner": "ahgamut",
                 "repo": "cpython",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -273,12 +418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+                "homepage": null,
                 "id": 534942296,
                 "language": "Rust",
+                "license": "Unlicense",
                 "last_commit": "2023-10-10T14:11:09Z",
+                "open_issues": 0,
                 "owner": "ahgamut",
                 "repo": "ripgrep",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -289,12 +439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal Scala.js executable",
+                "homepage": null,
                 "id": 527250423,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2022-08-21T15:42:49Z",
+                "open_issues": 0,
                 "owner": "lolgab",
                 "repo": "cosmopolitan-scalajs-example",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -305,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LuaJIT 2.1.0-beta3 compiled with Cosmopolitan Libc",
+                "homepage": null,
                 "id": 407482680,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2021-09-24T11:58:37Z",
+                "open_issues": 0,
                 "owner": "ahgamut",
                 "repo": "LuaJIT-cosmo",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -321,12 +481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GNU Make 4.3 source code, with modifications to compile with Cosmopolitan Libc",
+                "homepage": null,
                 "id": 393291421,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2021-08-06T07:23:35Z",
+                "open_issues": 0,
                 "owner": "ahgamut",
                 "repo": "gnu-make-cosmopolitan",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -337,12 +502,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Tcl Core. (Mirror of core.tcl-lang.org) ",
+                "homepage": "https://core.tcl-lang.org/tcl/",
                 "id": 503166254,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-06-14T03:02:27Z",
+                "open_issues": 0,
                 "owner": "ahgamut",
                 "repo": "tcl",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -353,12 +523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Lua repo, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Send any issue to the Lua mailing list https://www.lua.org/lua-l.html",
+                "homepage": "https://www.lua.org/",
                 "id": 343023230,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-03-09T06:04:34Z",
+                "open_issues": 0,
                 "owner": "ahgamut",
                 "repo": "lua",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -369,12 +544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dynamic language and bytecode vm",
+                "homepage": "https://janet-lang.org",
                 "id": 344227492,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-04-21T06:02:46Z",
+                "open_issues": 0,
                 "owner": "ahgamut",
                 "repo": "janet",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -385,12 +565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BLAS-like Library Instantiation Software Framework",
+                "homepage": null,
                 "id": 489546225,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-07T07:11:30Z",
+                "open_issues": 0,
                 "owner": "ahgamut",
                 "repo": "blis",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -401,12 +586,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The PHP Interpreter",
+                "homepage": "https://www.php.net",
                 "id": 386726400,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-15T20:41:15Z",
+                "open_issues": 0,
                 "owner": "ahgamut",
                 "repo": "php-src",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -417,12 +607,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The PHP Interpreter",
+                "homepage": "https://www.php.net",
                 "id": 386726400,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-15T20:41:15Z",
+                "open_issues": 0,
                 "owner": "ahgamut",
                 "repo": "php-src",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -433,12 +628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Git mirror of the SQLite source tree",
+                "homepage": null,
                 "id": 354103302,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2021-05-04T07:55:36Z",
+                "open_issues": 0,
                 "owner": "ahgamut",
                 "repo": "sqlite",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             }
@@ -460,12 +660,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A template for making a project based on redbean",
+            "homepage": null,
             "id": 521799111,
             "language": "Shell",
+            "license": "Unlicense",
             "last_commit": "2026-06-24T05:03:47Z",
+            "open_issues": 4,
             "owner": "ProducerMatt",
             "repo": "redbean-template",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:52:00.486Z"
         },
@@ -478,12 +683,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Docker image for redbean from the \"scratch\" container",
+                "homepage": "https://redbean.dev",
                 "id": 382596269,
                 "language": "just",
+                "license": "MIT",
                 "last_commit": "2022-12-15T11:21:25Z",
+                "open_issues": 0,
                 "owner": "kissgyorgy",
                 "repo": "redbean-docker",
-                "stars": 352
+                "stars": 352,
+                "topics": [
+                  "redbean",
+                  "static-site-building",
+                  "webserver"
+                ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -494,12 +708,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IPv4 address turf war!",
+                "homepage": null,
                 "id": 533883909,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-06-14T05:18:52Z",
+                "open_issues": 0,
                 "owner": "shamblesides",
                 "repo": "turfwar",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -510,12 +729,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experiments with redbean TiddlyWiki server",
+                "homepage": null,
                 "id": 519637712,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2023-01-28T16:58:24Z",
+                "open_issues": 0,
                 "owner": "amreus",
                 "repo": "tiddly-bean",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "redbean",
+                  "tiddlywiki"
+                ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -526,12 +753,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSON Web Token for redbean",
+                "homepage": null,
                 "id": 512374690,
                 "language": "Lua",
+                "license": "ISC",
                 "last_commit": "2024-07-03T15:24:55Z",
+                "open_issues": 1,
                 "owner": "w13b3",
                 "repo": "redbean-jwt",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "cosmopolitan",
+                  "jwt",
+                  "redbean"
+                ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -542,12 +778,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create a single-file cross-platform server within an executable ZIP, powered by redbean 🦞",
+                "homepage": "https://github.com/marketplace/actions/create-static-redbean-server",
                 "id": 504916117,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-12-05T21:46:49Z",
+                "open_issues": 0,
                 "owner": "TimonLukas",
                 "repo": "action-static-redbean",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "actions",
+                  "cosmopolitan",
+                  "cosmopolitan-libc",
+                  "redbean",
+                  "server",
+                  "static"
+                ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -558,12 +806,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "αcτµαlly pδrταblε εxεcµταblε redbean-based local web application",
+                "homepage": "https://cdrubin.github.io/rig",
                 "id": 370124992,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2021-05-27T13:55:26Z",
+                "open_issues": 2,
                 "owner": "cdrubin",
                 "repo": "rig",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "chartjs",
+                  "cosmopolitan-libc",
+                  "lua",
+                  "prismjs",
+                  "redbean",
+                  "sqlite",
+                  "yace"
+                ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -574,12 +835,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write beautiful ~2.3MB redbean (docker) apps using (redbean) plug-and-play middleware. #tiniest_fastest_server_in_the_universe",
+                "homepage": null,
                 "id": 427642747,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2026-08-24T10:26:15Z",
+                "open_issues": 0,
                 "owner": "coderofsalvation",
                 "repo": "soakbean",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "crossplatform",
+                  "express",
+                  "fast",
+                  "lua",
+                  "microstack",
+                  "webserver"
+                ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -590,12 +863,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CalcPad served with redbean",
+                "homepage": null,
                 "id": 525966954,
                 "language": "Makefile",
+                "license": null,
                 "last_commit": "2022-08-18T05:17:25Z",
+                "open_issues": 0,
                 "owner": "shmup",
                 "repo": "redbean-calcpad",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "redbean"
+                ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             },
@@ -606,12 +886,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "To become a collection of card games within a redbean",
+                "homepage": null,
                 "id": 519470024,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-08-29T04:11:03Z",
+                "open_issues": 1,
                 "owner": "shmup",
                 "repo": "redbean-cardgames",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "cardgames",
+                  "fullmoon",
+                  "lua",
+                  "mithriljs",
+                  "redbean"
+                ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
             }
@@ -625,15 +916,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:52:00.486Z",
+    "last_updated": "2026-08-29T04:47:13.489Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of Cosmopolitan Libc related resources and projects",
+      "homepage": null,
       "id": 526712148,
       "language": null,
+      "license": null,
       "last_commit": "2025-12-28T17:29:36Z",
+      "open_issues": 1,
       "owner": "shmup",
       "repo": "awesome-cosmopolitan",
-      "stars": 314
+      "stars": 314,
+      "topics": [
+        "awesome-list",
+        "cosmopolitan-libc",
+        "fullmoon",
+        "redbean"
+      ]
     },
     "original_repository_sha": "aa61c6d49bcaa23bc082645fa808986e0ab762c3",
     "enhanced_repository": "enhansome/enhansome-cosmopolitan",
