@@ -19,7 +19,7 @@
             "open_issues": 225,
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21265,
+            "stars": 21267,
             "topics": [
               "bios",
               "containers",
@@ -99,7 +99,7 @@
                 "id": 1025647169,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-24T23:46:56Z",
+                "last_commit": "2026-08-31T15:19:09Z",
                 "open_issues": 4,
                 "owner": "nuwainfo",
                 "repo": "ffl",
@@ -142,7 +142,7 @@
                 "open_issues": 24,
                 "owner": "ghaerr",
                 "repo": "microwindows",
-                "stars": 857,
+                "stars": 858,
                 "topics": [
                   "android",
                   "c",
@@ -280,11 +280,11 @@
                 "id": 212152900,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-28T14:56:31Z",
+                "last_commit": "2026-08-31T15:34:06Z",
                 "open_issues": 19,
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 8009,
+                "stars": 8012,
                 "topics": [
                   "containers",
                   "cosmopolitan",
@@ -315,11 +315,11 @@
                 "id": 4073516,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-30T14:49:09Z",
-                "open_issues": 1,
+                "last_commit": "2026-08-31T15:47:40Z",
+                "open_issues": 2,
                 "owner": "mruby",
                 "repo": "mruby",
-                "stars": 5606,
+                "stars": 5605,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:10:43.347Z",
+    "last_updated": "2026-08-31T19:21:57.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
