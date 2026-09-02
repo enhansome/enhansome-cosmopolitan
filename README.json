@@ -55,7 +55,7 @@
                 "open_issues": 15,
                 "owner": "onetrueawk",
                 "repo": "awk",
-                "stars": 2223,
+                "stars": 2225,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -99,7 +99,7 @@
                 "id": 1025647169,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T10:35:55Z",
+                "last_commit": "2026-09-02T13:02:03Z",
                 "open_issues": 4,
                 "owner": "nuwainfo",
                 "repo": "ffl",
@@ -142,7 +142,7 @@
                 "open_issues": 24,
                 "owner": "ghaerr",
                 "repo": "microwindows",
-                "stars": 858,
+                "stars": 857,
                 "topics": [
                   "android",
                   "c",
@@ -280,11 +280,11 @@
                 "id": 212152900,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-01T15:32:44Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-02T15:03:58Z",
+                "open_issues": 19,
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 8012,
+                "stars": 8014,
                 "topics": [
                   "containers",
                   "cosmopolitan",
@@ -315,7 +315,7 @@
                 "id": 4073516,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-01T15:28:48Z",
+                "last_commit": "2026-09-02T15:36:54Z",
                 "open_issues": 4,
                 "owner": "mruby",
                 "repo": "mruby",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:07:46.378Z",
+    "last_updated": "2026-09-02T16:58:00.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
