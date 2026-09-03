@@ -19,7 +19,7 @@
             "open_issues": 225,
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21268,
+            "stars": 21271,
             "topics": [
               "bios",
               "containers",
@@ -139,7 +139,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-24T17:03:25Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "ghaerr",
                 "repo": "microwindows",
                 "stars": 857,
@@ -225,7 +225,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2022-09-09T03:32:40Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "bannsec",
                 "repo": "cosmosocks",
                 "stars": 23,
@@ -280,11 +280,11 @@
                 "id": 212152900,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-02T15:03:58Z",
+                "last_commit": "2026-09-03T10:36:07Z",
                 "open_issues": 19,
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 8014,
+                "stars": 8015,
                 "topics": [
                   "containers",
                   "cosmopolitan",
@@ -315,11 +315,11 @@
                 "id": 4073516,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-02T15:36:54Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-03T15:05:44Z",
+                "open_issues": 3,
                 "owner": "mruby",
                 "repo": "mruby",
-                "stars": 5606,
+                "stars": 5605,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T16:58:00.532Z",
+    "last_updated": "2026-09-03T16:53:31.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
