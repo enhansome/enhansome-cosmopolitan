@@ -19,7 +19,7 @@
             "open_issues": 225,
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21271,
+            "stars": 21272,
             "topics": [
               "bios",
               "containers",
@@ -55,7 +55,7 @@
                 "open_issues": 15,
                 "owner": "onetrueawk",
                 "repo": "awk",
-                "stars": 2225,
+                "stars": 2226,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -99,7 +99,7 @@
                 "id": 1025647169,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T13:02:03Z",
+                "last_commit": "2026-09-04T16:39:18Z",
                 "open_issues": 4,
                 "owner": "nuwainfo",
                 "repo": "ffl",
@@ -138,8 +138,8 @@
                 "id": 34084316,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T17:03:25Z",
-                "open_issues": 25,
+                "last_commit": "2026-09-03T22:24:40Z",
+                "open_issues": 24,
                 "owner": "ghaerr",
                 "repo": "microwindows",
                 "stars": 857,
@@ -280,11 +280,11 @@
                 "id": 212152900,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-03T10:36:07Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-04T10:29:20Z",
+                "open_issues": 18,
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 8015,
+                "stars": 8017,
                 "topics": [
                   "containers",
                   "cosmopolitan",
@@ -315,11 +315,11 @@
                 "id": 4073516,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-03T15:05:44Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-04T16:14:11Z",
+                "open_issues": 7,
                 "owner": "mruby",
                 "repo": "mruby",
-                "stars": 5605,
+                "stars": 5606,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T16:53:31.673Z",
+    "last_updated": "2026-09-04T16:42:33.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
