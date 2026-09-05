@@ -34,7 +34,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 
 * [actually portable awk](https://justine.lol/awk/) - The One True \[Portable] [Awk](https://github.com/onetrueawk/awk) ⭐ 2,226 | 🐛 15 | 🌐 C | 📅 2026-08-19
 * [bob](https://github.com/dinosaure/bob) ⭐ 143 | 🐛 19 | 🌐 OCaml | 📅 2025-05-12 - A peer-to-peer file-transfer tool in OCaml with Cosmopolitan
-* [ffl](https://github.com/nuwainfo/ffl) ⭐ 103 | 🐛 4 | 🌐 Python | 📅 2026-09-04 - Turns any file or folder into a secure HTTPS link, allowing two computers to simply and securely transfer files using real peer-to-peer (WebRTC) connections
+* [ffl](https://github.com/nuwainfo/ffl) ⭐ 103 | 🐛 4 | 🌐 Python | 📅 2026-09-05 - Turns any file or folder into a secure HTTPS link, allowing two computers to simply and securely transfer files using real peer-to-peer (WebRTC) connections
 * [apelife.com](https://justine.lol/apelife/index.html) - tui for conway's game of life with xterm mouse integration
 * [blinkenlights](https://justine.lol/blinkenlights/) - Command line debugger that focuses on visualizing how software changes memory
 * [braille dump](https://justine.lol/braille/) - drop in replacement for hexdump -C that uses unicode braille characters to display hex code
@@ -45,7 +45,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 
 ### Projects
 
-* [microwindows](https://github.com/ghaerr/microwindows) ⭐ 857 | 🐛 24 | 🌐 C | 📅 2026-09-03 - The Nano-X Window System ([demo](https://github.com/jart/cosmopolitan/issues/35#issuecomment-1098659862) ⭐ 21,272 | 🐛 225 | 🌐 C | 📅 2026-07-20)
+* [microwindows](https://github.com/ghaerr/microwindows) ⭐ 856 | 🐛 24 | 🌐 C | 📅 2026-09-03 - The Nano-X Window System ([demo](https://github.com/jart/cosmopolitan/issues/35#issuecomment-1098659862) ⭐ 21,272 | 🐛 225 | 🌐 C | 📅 2026-07-20)
 * [cosmofy](https://github.com/metaist/cosmofy) ⭐ 107 | 🐛 3 | 🌐 Python | 📅 2026-01-13 - Bundle Python projects into a single-file Cosmopolitan Python executable
 * [cosmo-include](https://github.com/fabriziobertocci/cosmo-include) ⭐ 33 | 🐛 0 | 🌐 C | 📅 2023-03-24 - Set of very empty header files that can be used when building apps with Cosmopolitan
 * [cosmosocks](https://github.com/bannsec/cosmosocks) ⭐ 23 | 🐛 16 | 🌐 C | 📅 2022-09-09 - Socks server written in Cosmopolitan libc
@@ -60,8 +60,8 @@ Here are our most ambitious community projects, which would require perishing th
 
 Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan) ⭐ 21,272 | 🐛 225 | 🌐 C | 📅 2026-07-20. Ports are often a stepping stone for what we put in the monorepo.
 
-* [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) ⭐ 8,017 | 🐛 18 | 🌐 C | 📅 2026-09-04 - APE of wasm3
-* [mruby](https://github.com/mruby/mruby) ⭐ 5,606 | 🐛 7 | 🌐 C | 📅 2026-09-04 - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) ⭐ 5,606 | 🐛 7 | 🌐 C | 📅 2026-09-04 as a build target
+* [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) ⭐ 8,018 | 🐛 18 | 🌐 C | 📅 2026-09-05 - APE of wasm3
+* [mruby](https://github.com/mruby/mruby) ⭐ 5,606 | 🐛 5 | 🌐 C | 📅 2026-09-05 - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) ⭐ 5,606 | 🐛 5 | 🌐 C | 📅 2026-09-05 as a build target
 * [rust ape example](https://github.com/ahgamut/rust-ape-example) ⭐ 217 | 🐛 3 | 🌐 Rust | 📅 2026-05-07 - Rust APE Example
 * [esperanto](https://github.com/dinosaure/esperanto) ⭐ 145 | 🐛 2 | 🌐 C | 📅 2026-02-17 - build-once run-anywhere OCaml programs
 * [nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) ⭐ 71 | 🐛 0 | 🌐 Nim | 📅 2023-05-05 - Turns Nim into a build once run anywhere language
@@ -128,4 +128,4 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

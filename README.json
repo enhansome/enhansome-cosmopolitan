@@ -99,7 +99,7 @@
                 "id": 1025647169,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T16:39:18Z",
+                "last_commit": "2026-09-05T07:32:08Z",
                 "open_issues": 4,
                 "owner": "nuwainfo",
                 "repo": "ffl",
@@ -142,7 +142,7 @@
                 "open_issues": 24,
                 "owner": "ghaerr",
                 "repo": "microwindows",
-                "stars": 857,
+                "stars": 856,
                 "topics": [
                   "android",
                   "c",
@@ -276,15 +276,15 @@
               "repo_info": {
                 "archived": false,
                 "description": "🚀 A fast WebAssembly interpreter and the most universal WASM runtime",
-                "homepage": "https://twitter.com/wasm3_engine",
+                "homepage": "https://x.com/wasm3_engine",
                 "id": 212152900,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-04T10:29:20Z",
+                "last_commit": "2026-09-05T10:02:53Z",
                 "open_issues": 18,
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 8017,
+                "stars": 8018,
                 "topics": [
                   "containers",
                   "cosmopolitan",
@@ -315,8 +315,8 @@
                 "id": 4073516,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-04T16:14:11Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-05T12:43:45Z",
+                "open_issues": 5,
                 "owner": "mruby",
                 "repo": "mruby",
                 "stars": 5606,
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:42:33.573Z",
+    "last_updated": "2026-09-05T15:45:36.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
