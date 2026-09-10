@@ -16,7 +16,7 @@
             "language": "C",
             "license": "ISC",
             "last_commit": "2026-07-20T02:14:06Z",
-            "open_issues": 227,
+            "open_issues": 226,
             "owner": "jart",
             "repo": "cosmopolitan",
             "stars": 21279,
@@ -139,10 +139,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T22:24:40Z",
-                "open_issues": 25,
+                "open_issues": 24,
                 "owner": "ghaerr",
                 "repo": "microwindows",
-                "stars": 857,
+                "stars": 856,
                 "topics": [
                   "android",
                   "c",
@@ -182,7 +182,7 @@
                 "open_issues": 3,
                 "owner": "metaist",
                 "repo": "cosmofy",
-                "stars": 107,
+                "stars": 108,
                 "topics": [
                   "cosmopolitan",
                   "python",
@@ -280,7 +280,7 @@
                 "id": 212152900,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-09T08:42:41Z",
+                "last_commit": "2026-09-10T16:24:00Z",
                 "open_issues": 18,
                 "owner": "wasm3",
                 "repo": "wasm3",
@@ -315,7 +315,7 @@
                 "id": 4073516,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-09T14:38:55Z",
+                "last_commit": "2026-09-10T15:28:45Z",
                 "open_issues": 1,
                 "owner": "mruby",
                 "repo": "mruby",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T17:00:08.326Z",
+    "last_updated": "2026-09-10T16:52:27.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
