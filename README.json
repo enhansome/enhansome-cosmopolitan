@@ -19,7 +19,7 @@
             "open_issues": 228,
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21288,
+            "stars": 21292,
             "topics": [
               "bios",
               "containers",
@@ -55,7 +55,7 @@
                 "open_issues": 15,
                 "owner": "onetrueawk",
                 "repo": "awk",
-                "stars": 2227,
+                "stars": 2228,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -142,7 +142,7 @@
                 "open_issues": 23,
                 "owner": "ghaerr",
                 "repo": "microwindows",
-                "stars": 857,
+                "stars": 858,
                 "topics": [
                   "android",
                   "c",
@@ -280,11 +280,11 @@
                 "id": 212152900,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-17T11:58:03Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-18T09:44:25Z",
+                "open_issues": 19,
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 8027,
+                "stars": 8029,
                 "topics": [
                   "containers",
                   "cosmopolitan",
@@ -315,8 +315,8 @@
                 "id": 4073516,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-17T12:37:14Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-17T21:06:11Z",
+                "open_issues": 1,
                 "owner": "mruby",
                 "repo": "mruby",
                 "stars": 5610,
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:26:27.017Z",
+    "last_updated": "2026-09-18T16:55:15.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
