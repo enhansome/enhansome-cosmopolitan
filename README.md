@@ -60,10 +60,10 @@ Here are our most ambitious community projects, which would require perishing th
 
 Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan) ⭐ 21,292 | 🐛 228 | 🌐 C | 📅 2026-07-20. Ports are often a stepping stone for what we put in the monorepo.
 
-* [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) ⭐ 8,029 | 🐛 19 | 🌐 C | 📅 2026-09-18 - APE of wasm3
-* [mruby](https://github.com/mruby/mruby) ⭐ 5,610 | 🐛 1 | 🌐 C | 📅 2026-09-17 - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) ⭐ 5,610 | 🐛 1 | 🌐 C | 📅 2026-09-17 as a build target
+* [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) ⭐ 8,028 | 🐛 19 | 🌐 C | 📅 2026-09-19 - APE of wasm3
+* [mruby](https://github.com/mruby/mruby) ⭐ 5,610 | 🐛 0 | 🌐 C | 📅 2026-09-18 - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) ⭐ 5,610 | 🐛 0 | 🌐 C | 📅 2026-09-18 as a build target
 * [rust ape example](https://github.com/ahgamut/rust-ape-example) ⭐ 217 | 🐛 3 | 🌐 Rust | 📅 2026-05-07 - Rust APE Example
-* [esperanto](https://github.com/dinosaure/esperanto) ⭐ 145 | 🐛 2 | 🌐 C | 📅 2026-02-17 - build-once run-anywhere OCaml programs
+* [esperanto](https://github.com/dinosaure/esperanto) ⭐ 146 | 🐛 2 | 🌐 C | 📅 2026-02-17 - build-once run-anywhere OCaml programs
 * [nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) ⭐ 71 | 🐛 0 | 🌐 Nim | 📅 2023-05-05 - Turns Nim into a build once run anywhere language
 * [cpython311](https://github.com/ahgamut/cpython/tree/cosmo_py311) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2025-11-29 - Port of python 3.11 (see also [3.9](https://github.com/ahgamut/cpython/tree/cosmo_py39) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2025-11-29, [3.6](https://github.com/ahgamut/cpython/tree/cosmo_py36) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2025-11-29, and [2.7](https://github.com/ahgamut/cpython/tree/cosmo_py27) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2025-11-29)
 * [ripgrep](https://github.com/ahgamut/ripgrep) ⭐ 22 | 🐛 0 | 🌐 Rust | 📅 2023-10-10 - Port of ripgrep
@@ -128,4 +128,4 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
