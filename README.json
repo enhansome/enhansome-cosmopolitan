@@ -19,7 +19,7 @@
             "open_issues": 228,
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21295,
+            "stars": 21298,
             "topics": [
               "bios",
               "containers",
@@ -99,7 +99,7 @@
                 "id": 1025647169,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T12:10:28Z",
+                "last_commit": "2026-09-21T06:06:09Z",
                 "open_issues": 3,
                 "owner": "nuwainfo",
                 "repo": "ffl",
@@ -315,7 +315,7 @@
                 "id": 4073516,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-20T13:00:16Z",
+                "last_commit": "2026-09-21T05:37:02Z",
                 "open_issues": 1,
                 "owner": "mruby",
                 "repo": "mruby",
@@ -801,6 +801,34 @@
             },
             {
               "node_type": "item",
+              "title": "soakbean",
+              "description": "write serverlogic using beautiful reactive (nodejs) express-like middleware.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Write beautiful ~2.3MB redbean (docker) apps using (redbean) plug-and-play middleware. #tiniest_fastest_server_in_the_universe",
+                "homepage": null,
+                "id": 427642747,
+                "language": "Lua",
+                "license": null,
+                "last_commit": "2026-08-24T10:26:15Z",
+                "open_issues": 0,
+                "owner": "coderofsalvation",
+                "repo": "soakbean",
+                "stars": 18,
+                "topics": [
+                  "crossplatform",
+                  "express",
+                  "fast",
+                  "lua",
+                  "microstack",
+                  "webserver"
+                ]
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
+            },
+            {
+              "node_type": "item",
               "title": "rig",
               "description": "redbean interactive grapher",
               "children": [],
@@ -824,34 +852,6 @@
                   "redbean",
                   "sqlite",
                   "yace"
-                ]
-              },
-              "first_seen": "2026-08-28T22:52:00.486Z"
-            },
-            {
-              "node_type": "item",
-              "title": "soakbean",
-              "description": "write serverlogic using beautiful reactive (nodejs) express-like middleware.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Write beautiful ~2.3MB redbean (docker) apps using (redbean) plug-and-play middleware. #tiniest_fastest_server_in_the_universe",
-                "homepage": null,
-                "id": 427642747,
-                "language": "Lua",
-                "license": null,
-                "last_commit": "2026-08-24T10:26:15Z",
-                "open_issues": 0,
-                "owner": "coderofsalvation",
-                "repo": "soakbean",
-                "stars": 17,
-                "topics": [
-                  "crossplatform",
-                  "express",
-                  "fast",
-                  "lua",
-                  "microstack",
-                  "webserver"
                 ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T16:40:24.779Z",
+    "last_updated": "2026-09-21T18:26:44.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
