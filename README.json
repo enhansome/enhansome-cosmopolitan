@@ -19,7 +19,7 @@
             "open_issues": 228,
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21301,
+            "stars": 21304,
             "topics": [
               "bios",
               "containers",
@@ -280,8 +280,8 @@
                 "id": 212152900,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-19T06:44:52Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-23T16:54:27Z",
+                "open_issues": 18,
                 "owner": "wasm3",
                 "repo": "wasm3",
                 "stars": 8031,
@@ -315,11 +315,11 @@
                 "id": 4073516,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-21T05:37:02Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-23T15:24:59Z",
+                "open_issues": 0,
                 "owner": "mruby",
                 "repo": "mruby",
-                "stars": 5610,
+                "stars": 5611,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -801,34 +801,6 @@
             },
             {
               "node_type": "item",
-              "title": "soakbean",
-              "description": "write serverlogic using beautiful reactive (nodejs) express-like middleware.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Write beautiful ~2.3MB redbean (docker) apps using (redbean) plug-and-play middleware. #tiniest_fastest_server_in_the_universe",
-                "homepage": null,
-                "id": 427642747,
-                "language": "Lua",
-                "license": null,
-                "last_commit": "2026-08-24T10:26:15Z",
-                "open_issues": 0,
-                "owner": "coderofsalvation",
-                "repo": "soakbean",
-                "stars": 18,
-                "topics": [
-                  "crossplatform",
-                  "express",
-                  "fast",
-                  "lua",
-                  "microstack",
-                  "webserver"
-                ]
-              },
-              "first_seen": "2026-08-28T22:52:00.486Z"
-            },
-            {
-              "node_type": "item",
               "title": "rig",
               "description": "redbean interactive grapher",
               "children": [],
@@ -852,6 +824,34 @@
                   "redbean",
                   "sqlite",
                   "yace"
+                ]
+              },
+              "first_seen": "2026-08-28T22:52:00.486Z"
+            },
+            {
+              "node_type": "item",
+              "title": "soakbean",
+              "description": "write serverlogic using beautiful reactive (nodejs) express-like middleware.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Write beautiful ~2.3MB redbean (docker) apps using (redbean) plug-and-play middleware. #tiniest_fastest_server_in_the_universe",
+                "homepage": null,
+                "id": 427642747,
+                "language": "Lua",
+                "license": null,
+                "last_commit": "2026-08-24T10:26:15Z",
+                "open_issues": 0,
+                "owner": "coderofsalvation",
+                "repo": "soakbean",
+                "stars": 17,
+                "topics": [
+                  "crossplatform",
+                  "express",
+                  "fast",
+                  "lua",
+                  "microstack",
+                  "webserver"
                 ]
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:30:06.044Z",
+    "last_updated": "2026-09-23T17:40:46.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
