@@ -99,7 +99,7 @@
                 "id": 1025647169,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T06:06:09Z",
+                "last_commit": "2026-10-03T07:43:40Z",
                 "open_issues": 3,
                 "owner": "nuwainfo",
                 "repo": "ffl",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:40:30.974Z",
+    "last_updated": "2026-10-03T16:57:03.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",

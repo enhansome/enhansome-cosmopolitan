@@ -34,7 +34,7 @@ This is a list of Cosmopolitan projects and resources. If you notice anything mi
 
 * [actually portable awk](https://justine.lol/awk/) - The One True \[Portable] [Awk](https://github.com/onetrueawk/awk) ⭐ 2,229 | 🐛 16 | 🌐 C | 📅 2026-08-19
 * [bob](https://github.com/dinosaure/bob) ⭐ 143 | 🐛 19 | 🌐 OCaml | 📅 2025-05-12 - A peer-to-peer file-transfer tool in OCaml with Cosmopolitan
-* [ffl](https://github.com/nuwainfo/ffl) ⭐ 105 | 🐛 3 | 🌐 Python | 📅 2026-09-21 - Turns any file or folder into a secure HTTPS link, allowing two computers to simply and securely transfer files using real peer-to-peer (WebRTC) connections
+* [ffl](https://github.com/nuwainfo/ffl) ⭐ 105 | 🐛 3 | 🌐 Python | 📅 2026-10-03 - Turns any file or folder into a secure HTTPS link, allowing two computers to simply and securely transfer files using real peer-to-peer (WebRTC) connections
 * [apelife.com](https://justine.lol/apelife/index.html) - tui for conway's game of life with xterm mouse integration
 * [blinkenlights](https://justine.lol/blinkenlights/) - Command line debugger that focuses on visualizing how software changes memory
 * [braille dump](https://justine.lol/braille/) - drop in replacement for hexdump -C that uses unicode braille characters to display hex code
