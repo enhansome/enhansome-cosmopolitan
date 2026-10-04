@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21347,
+            "stars": 21349,
             "topics": [
               "bios",
               "containers",
@@ -55,7 +55,7 @@
                 "open_issues": 16,
                 "owner": "onetrueawk",
                 "repo": "awk",
-                "stars": 2229,
+                "stars": 2230,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -99,7 +99,7 @@
                 "id": 1025647169,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T07:43:40Z",
+                "last_commit": "2026-10-04T12:31:19Z",
                 "open_issues": 3,
                 "owner": "nuwainfo",
                 "repo": "ffl",
@@ -284,7 +284,7 @@
                 "open_issues": 18,
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 8037,
+                "stars": 8039,
                 "topics": [
                   "containers",
                   "cosmopolitan",
@@ -315,11 +315,11 @@
                 "id": 4073516,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-02T15:38:46Z",
+                "last_commit": "2026-10-04T14:50:59Z",
                 "open_issues": 0,
                 "owner": "mruby",
                 "repo": "mruby",
-                "stars": 5614,
+                "stars": 5613,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:57:03.793Z",
+    "last_updated": "2026-10-04T17:15:47.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
