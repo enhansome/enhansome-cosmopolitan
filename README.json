@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21349,
+            "stars": 21350,
             "topics": [
               "bios",
               "containers",
@@ -95,11 +95,11 @@
               "repo_info": {
                 "archived": false,
                 "description": "FastFileLink CLI - Turn any file or folder into a secure, sharable HTTPS link. 🔄 Direct transfer (P2P) .⚡ Absolute privacy (E2EE).🔒 Single File, Run Anywhere",
-                "homepage": "https://fastfilelink.com",
+                "homepage": "https://cli.fastfilelink.com/",
                 "id": 1025647169,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T12:31:19Z",
+                "last_commit": "2026-10-05T05:23:04Z",
                 "open_issues": 3,
                 "owner": "nuwainfo",
                 "repo": "ffl",
@@ -284,7 +284,7 @@
                 "open_issues": 18,
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 8039,
+                "stars": 8043,
                 "topics": [
                   "containers",
                   "cosmopolitan",
@@ -319,7 +319,7 @@
                 "open_issues": 0,
                 "owner": "mruby",
                 "repo": "mruby",
-                "stars": 5613,
+                "stars": 5614,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T17:15:47.680Z",
+    "last_updated": "2026-10-05T21:02:58.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
