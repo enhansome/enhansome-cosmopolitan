@@ -19,7 +19,7 @@
             "open_issues": 226,
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21420,
+            "stars": 21419,
             "topics": [
               "bios",
               "containers",
@@ -55,7 +55,7 @@
                 "open_issues": 16,
                 "owner": "onetrueawk",
                 "repo": "awk",
-                "stars": 2232,
+                "stars": 2233,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -76,7 +76,7 @@
                 "open_issues": 19,
                 "owner": "dinosaure",
                 "repo": "bob",
-                "stars": 143,
+                "stars": 142,
                 "topics": [
                   "file",
                   "p2p",
@@ -281,10 +281,10 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-09-30T22:02:43Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 8063,
+                "stars": 8064,
                 "topics": [
                   "containers",
                   "cosmopolitan",
@@ -315,11 +315,11 @@
                 "id": 4073516,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-23T23:19:27Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-25T09:51:44Z",
+                "open_issues": 2,
                 "owner": "mruby",
                 "repo": "mruby",
-                "stars": 5620,
+                "stars": 5621,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T16:25:27.416Z",
+    "last_updated": "2026-10-25T16:56:48.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
