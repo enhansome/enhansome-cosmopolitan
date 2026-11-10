@@ -19,7 +19,7 @@
             "open_issues": 225,
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21437,
+            "stars": 21440,
             "topics": [
               "bios",
               "containers",
@@ -138,11 +138,11 @@
                 "id": 34084316,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T02:05:04Z",
+                "last_commit": "2026-11-10T01:13:15Z",
                 "open_issues": 22,
                 "owner": "ghaerr",
                 "repo": "microwindows",
-                "stars": 864,
+                "stars": 865,
                 "topics": [
                   "android",
                   "c",
@@ -207,7 +207,7 @@
                 "open_issues": 0,
                 "owner": "fabriziobertocci",
                 "repo": "cosmo-include",
-                "stars": 34,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:52:00.486Z"
@@ -284,7 +284,7 @@
                 "open_issues": 21,
                 "owner": "wasm3",
                 "repo": "wasm3",
-                "stars": 8079,
+                "stars": 8081,
                 "topics": [
                   "containers",
                   "cosmopolitan",
@@ -315,7 +315,7 @@
                 "id": 4073516,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-09T18:40:27Z",
+                "last_commit": "2026-11-10T18:38:59Z",
                 "open_issues": 0,
                 "owner": "mruby",
                 "repo": "mruby",
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:50:57.730Z",
+    "last_updated": "2026-11-10T20:11:16.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
@@ -928,7 +928,7 @@
       "open_issues": 1,
       "owner": "shmup",
       "repo": "awesome-cosmopolitan",
-      "stars": 315,
+      "stars": 316,
       "topics": [
         "awesome-list",
         "cosmopolitan-libc",
