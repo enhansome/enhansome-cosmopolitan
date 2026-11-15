@@ -60,8 +60,8 @@ Here are our most ambitious community projects, which would require perishing th
 
 Note: Some ports are experimental. The most battle-tested code is in the [Cosmopolitan repo](https://github.com/jart/cosmopolitan) ⭐ 21,444 | 🐛 227 | 🌐 C | 📅 2026-10-20. Ports are often a stepping stone for what we put in the monorepo.
 
-* [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) ⭐ 8,086 | 🐛 21 | 🌐 C | 📅 2026-09-30 - APE of wasm3
-* [mruby](https://github.com/mruby/mruby) ⭐ 5,624 | 🐛 6 | 🌐 C | 📅 2026-11-12 - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) ⭐ 5,624 | 🐛 6 | 🌐 C | 📅 2026-11-12 as a build target
+* [wasm3](https://github.com/wasm3/wasm3/blob/main/docs/Installation.md#cosmopolitan--actually-portable-executable) ⭐ 8,087 | 🐛 21 | 🌐 C | 📅 2026-09-30 - APE of wasm3
+* [mruby](https://github.com/mruby/mruby) ⭐ 5,624 | 🐛 2 | 🌐 C | 📅 2026-11-15 - mruby [supports cosmo](https://github.com/mruby/mruby/pull/6681) ⭐ 5,624 | 🐛 2 | 🌐 C | 📅 2026-11-15 as a build target
 * [rust ape example](https://github.com/ahgamut/rust-ape-example) ⭐ 217 | 🐛 3 | 🌐 Rust | 📅 2026-05-07 - Rust APE Example
 * [esperanto](https://github.com/dinosaure/esperanto) ⭐ 146 | 🐛 2 | 🌐 C | 📅 2026-02-17 - build-once run-anywhere OCaml programs
 * [nim](https://github.com/gnu-enjoyer/ActuallyPortableNim) ⭐ 71 | 🐛 0 | 🌐 Nim | 📅 2023-05-05 - Turns Nim into a build once run anywhere language
@@ -123,9 +123,9 @@ Note: Some ports are experimental. The most battle-tested code is in the [Cosmop
 
 > <img align="left" src="images/fullmoon.png"> *Fullmoon is a fast and minimalistic web framework based on Redbean -- a portable, single-file distributable web server.*
 
-* [Fullmoon](https://github.com/pkulchenko/fullmoon) ⭐ 762 | 🐛 8 | 🌐 Lua | 📅 2026-09-22 - Fast and minimalistic web framework
+* [Fullmoon](https://github.com/pkulchenko/fullmoon) ⭐ 761 | 🐛 8 | 🌐 Lua | 📅 2026-09-22 - Fast and minimalistic web framework
 * [HN discussions](https://hn.algolia.com/?query=fullmoon+framework) - Algolia list of Fullmoon submissions
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
