@@ -19,7 +19,7 @@
             "open_issues": 227,
             "owner": "jart",
             "repo": "cosmopolitan",
-            "stars": 21449,
+            "stars": 21448,
             "topics": [
               "bios",
               "containers",
@@ -138,7 +138,7 @@
                 "id": 34084316,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T01:13:15Z",
+                "last_commit": "2026-11-18T02:39:40Z",
                 "open_issues": 23,
                 "owner": "ghaerr",
                 "repo": "microwindows",
@@ -315,8 +315,8 @@
                 "id": 4073516,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-17T18:45:44Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-18T06:45:48Z",
+                "open_issues": 0,
                 "owner": "mruby",
                 "repo": "mruby",
                 "stars": 5624,
@@ -916,7 +916,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:29:04.363Z",
+    "last_updated": "2026-11-18T21:03:54.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Cosmopolitan Libc related resources and projects",
